@@ -2,8 +2,11 @@ body{
     background-color: black;
 }
 .container{
+    position: absolute;
+    width: 550px;
+    height: 550px;
     left: 30%;
-    position: relative;
+    background: #1F2937;
 }
 .header{
     position: absolute;
