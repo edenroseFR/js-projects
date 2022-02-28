@@ -1,0 +1,121 @@
+body{
+    background-color: black;
+}
+.container{
+    left: 30%;
+    position: relative;
+}
+.header{
+    position: absolute;
+    width: 550px;
+    height: 360px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+
+.header h4{
+    position: absolute;
+    width: 448.4px;
+    height: 38px;
+    left: 51px;
+    top: 53px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 38px;
+    /* identical to box height, or 173% */
+
+    text-align: center;
+    letter-spacing: -0.05em;
+
+    color: #FFFFFF;
+}
+
+.header input{
+    position: absolute;
+    width: 211px;
+    height: 51.23px;
+    left: 169px;
+    top: 155px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60.5723px;
+    line-height: 24px;
+    /* or 25% */
+
+    text-align: center;
+
+    background-color: none;
+    color: black;
+}
+
+.header button{
+    position: absolute;
+    width: 143px;
+    height: 30px;
+    left: 205px;
+    top: 283px;
+    color: white;
+    cursor: pointer;
+    background: #7456EC;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 11px;
+    border: none;
+
+}
+.header button:active{
+    position: absolute;
+    width: 143px;
+    height: 30px;
+    left: 205px;
+    top: 283px;
+    color: white;
+    cursor: pointer;
+    background: #7456EC;
+    box-shadow: none;
+    border-radius: 11px;
+    border: 1px solid white;
+
+}
+.content{
+    position: absolute;
+    width: 550px;
+    height: 215px;
+    top: 347px;
+    left: 0px;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 20%;
+    background-color: white;
+}
+
+.content h5{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+
+    text-align: center;
+
+    color: #1A1921;
+}
+
+.content h6{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+
+    text-align: center;
+
+    color: #4E4E4E;
+}
