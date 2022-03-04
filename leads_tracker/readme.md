@@ -1,6 +1,6 @@
 # LEAD TRACKER (Chrome extension)
 
-![preview](https://github.com/edenroseFR/js-projects/blob/main/preview.PNG)
+![preview](https://github.com/edenroseFR/js-projects/blob/main/leads_tracker/preview.PNG)
 
 ## FEATURES
 
