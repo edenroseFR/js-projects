@@ -1,5 +1,7 @@
 # PASSWORD GENERATOR
 
+![preview](https://github.com/edenroseFR/js-projects/blob/main/password_generator/preview.PNG)
+
 ## FEATURES
 
 - Choose the length of the password

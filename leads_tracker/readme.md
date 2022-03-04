@@ -1,7 +1,5 @@
 # LEAD TRACKER (Chrome extension)
 
-![preview](https://github.com/edenroseFR/js-projects/blob/main/leads_tracker/preview.PNG)
-
 ## FEATURES
 
 - Manual input of URL
