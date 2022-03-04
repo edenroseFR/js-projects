@@ -1,6 +1,6 @@
 # PASSWORD GENERATOR
 
-![preview](https://github.com/edenroseFR/js-projects/blob/main/password_generator/preview.PNG)
+![preview](https://github.com/edenroseFR/js-projects/blob/main/password-generator/preview.PNG)
 
 ## FEATURES
 
