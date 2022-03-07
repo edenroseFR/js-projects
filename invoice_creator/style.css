@@ -164,3 +164,12 @@ hr{
 
     color: #FFFFFF;
 }
+
+.remove-btn{
+    font-size: 12px !important;
+    font-weight: 300 !important;
+    color: rgba(255, 255, 255, 0.514) !important;
+    margin-top: 55px;
+
+    cursor: pointer;
+}
