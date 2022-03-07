@@ -15,6 +15,7 @@ body{
     left: 0px;
     top: 0px;
     background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    border-radius: 10px 10px 0px 0px;
 }
 
 .header h4{
@@ -53,8 +54,8 @@ body{
 
     text-align: center;
 
-    background-color: none;
-    color: black;
+    background-color: transparent;
+    color: white;
 }
 
 .header button{
@@ -95,6 +96,7 @@ body{
     text-align: center;
     padding-bottom: 20%;
     background-color: white;
+    border-radius: 0px 0px 10px 10px;
 }
 
 .content h5{

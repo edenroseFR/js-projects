@@ -4,7 +4,15 @@ let volumeConversion = document.getElementById("volume")
 let massConversion = document.getElementById("mass")
 
 function convert() {
-    let valueInput = userInp.value
+    let valueInput = parseInt(userInp.value)
+
+    if (!valueInput){
+        // This block will only get executed when the user enters a non-integer value.
+        alert("Enter a number.")
+        userInp.value = ""
+        userInp.focus = True
+        return
+    }
     
     let length = getLength(valueInput)
     let volume = getVolume(valueInput)
