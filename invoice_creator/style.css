@@ -74,8 +74,6 @@
     justify-content: space-between;
     padding: 10px 60px 5px;
     height: 22px;
-    top: 319px;
-    
     color: #D5D4D8;
 }
 .content .tasks .t-header h6,
@@ -172,4 +170,8 @@ hr{
     margin-top: 55px;
 
     cursor: pointer;
+    visibility: hidden;
+}
+.order:hover .remove-btn{
+    visibility: visible;
 }
